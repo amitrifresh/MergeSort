@@ -1,0 +1,37 @@
+.array-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  height: 70vh;
+  width: 100%;
+  background-color: #81eafcb9;
+  padding: 10px;
+}
+
+.array-bar {
+  width: 20px;
+  margin: 0 4px;
+  background-color: #d90053;
+}
+
+.btn {
+  width: 600px;
+  height: 100px;
+  font-size: 30px;
+  margin: 10px;
+  justify-items: center;
+  text-align: center;
+  margin-bottom: 20px;
+/* box-shadow: 10px 10px 10px rgb(64, 64, 64); */
+
+
+}
+.btn:hover {
+  transition: 1s;
+  box-shadow: 10px 10px 10px rgb(64, 64, 64);
+}
+
+.Header {
+  display: flex;
+
+}
